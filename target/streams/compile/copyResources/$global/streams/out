@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/media/ssd/sibental/demos/scala/scala-akka-http-mysql-template/src/main/resources/templates,/media/ssd/sibental/demos/scala/scala-akka-http-mysql-template/target/scala-2.11/classes/templates)[0m
+[0m[[0mdebug[0m] [0m	(/media/ssd/sibental/demos/scala/scala-akka-http-mysql-template/src/main/resources/static,/media/ssd/sibental/demos/scala/scala-akka-http-mysql-template/target/scala-2.11/classes/static)[0m
+[0m[[0mdebug[0m] [0m	(/media/ssd/sibental/demos/scala/scala-akka-http-mysql-template/src/main/resources/templates/index.beard,/media/ssd/sibental/demos/scala/scala-akka-http-mysql-template/target/scala-2.11/classes/templates/index.beard)[0m
+[0m[[0mdebug[0m] [0m	(/media/ssd/sibental/demos/scala/scala-akka-http-mysql-template/src/main/resources/static/css,/media/ssd/sibental/demos/scala/scala-akka-http-mysql-template/target/scala-2.11/classes/static/css)[0m
+[0m[[0mdebug[0m] [0m	(/media/ssd/sibental/demos/scala/scala-akka-http-mysql-template/src/main/resources/static/css/style.css,/media/ssd/sibental/demos/scala/scala-akka-http-mysql-template/target/scala-2.11/classes/static/css/style.css)[0m
