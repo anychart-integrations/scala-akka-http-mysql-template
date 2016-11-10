@@ -57,7 +57,7 @@ Run app:
 $ sbt run
 ```
 
-Open browser at http://localhost:9000/
+Open browser at http://localhost:8080/
 
 
 ## Workspace
