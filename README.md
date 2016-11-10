@@ -1,5 +1,5 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://anychart.com)
-Scala Play basic template
+Scala Akka Http basic template
 =========================
 
 This example shows how to run Anychart library with the Scala programming language using Akka Http and MySQL.
@@ -52,12 +52,12 @@ Set up MySQL database, use -u -p flags to provide your user name and password:
 $  mysql < database_backup.sql
 ```
 
-Run app
+Run app:
 ```
 $ sbt run
 ```
 
-open browser at http://localhost:9000/
+Open browser at http://localhost:9000/
 
 
 ## Workspace
@@ -89,14 +89,13 @@ scala-akka-http-mysql-template/
     LICENSE
     README.md
 ```
-More about anatomy of Play application you can see [here](https://www.playframework.com/documentation/2.5.x/Anatomy).
 
 ## Technologies
 Platform - [Java](https://java.com/)<br />
 Language - [Scala](http://www.scala-lang.org/)<br />
 Database - [MySQL](https://www.mysql.com/)<br />
 Web - [Akka Http](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/)<br />
-Template engine - [Beard](https://github.com/zalando/beard)
+Template engine - [Beard](https://github.com/zalando/beard)<br />
 Build tool - [SBT](http://www.scala-sbt.org/)
 
 ## Further Learning
