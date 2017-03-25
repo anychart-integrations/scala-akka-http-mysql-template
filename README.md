@@ -1,6 +1,5 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://anychart.com)
-Scala Akka Http basic template
-=========================
+# Scala Akka Http basic template
 
 This example shows how to run Anychart library with the Scala programming language using Akka Http and MySQL.
 
